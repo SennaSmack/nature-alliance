@@ -1,2 +1,3 @@
 # nature-alliance
-Seneca class work
+The solution to Nature Alliance.
+A new line
